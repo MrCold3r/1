@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    position: relative;
+}
+
+.box{
+    margin-left: 50px;
+    margin-top: 50px;
+    width: 100px;
+    height: 100px;
+    background-color: #008f00;
+}
+
+.btn{
+    margin-left: 50px;
+    margin-top: 5px;
+    padding-left: 7px;
+    padding-right: 7px;
+}
+
+
